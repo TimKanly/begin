@@ -1,0 +1,9 @@
+# задание №1 
+# моя домашка ) 
+a = float( input("enter meal_cost" ) )
+b = float( input("enter tip_percent") )
+c = float( input("enter tax_percent") )
+total_cost = a * b * c
+print(total_cost)
+
+
